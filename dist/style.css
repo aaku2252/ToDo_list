@@ -1,0 +1,11 @@
+.cancel {
+  background-color: rgb(255, 239, 66);
+  padding: 0 8px 0 8px;
+}
+
+li {
+  display: flex;
+  flex-wrap: nowrap;
+  justify-content: space-between;
+  width: 100%;
+}
