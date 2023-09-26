@@ -6,7 +6,7 @@ const input = $("input");
 const btn = $("btn");
 const numTasks = $("numTasks");
 const tasks = $("tasks");
-
+input.focus();
 //> data for lists
 let items = [];
 
